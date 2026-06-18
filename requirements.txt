@@ -1,0 +1,5 @@
+yfinance>=1.4.1
+customtkinter>=5.2.2
+numpy>=2.4.4
+pandas>=3.0.2
+scipy>=1.17.1
