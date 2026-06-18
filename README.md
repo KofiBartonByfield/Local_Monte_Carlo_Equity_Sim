@@ -2,7 +2,8 @@
 
 A correlated Monte Carlo simulation engine for portfolio Value-at-Risk, with Historical Simulation and Parametric benchmarks. Built on real market data pulled live from Yahoo Finance. Runs as a native desktop application.
 
-![Demo GIF](demo.gif)
+<img width="1127" height="838" alt="monte_carlo_engine" src="https://github.com/user-attachments/assets/491b00a3-99f8-4b9b-99d8-e84349145406" />
+
 
 ---
 
